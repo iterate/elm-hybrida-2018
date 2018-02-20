@@ -1,6 +1,6 @@
-#ELM workshop 2018
+# ELM workshop 2018
 
-This awesome elm workshop will help you learn some elm.
+This awesome elm workshop will help you learn some elm. All tasks are explained in the tasks directory, and solutions are in the solutions directory. Enjoy!
 
 ## How to run examples:
 
