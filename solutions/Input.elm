@@ -1,7 +1,7 @@
 module Input exposing (..)
 
-import Html exposing (..)
-import Html.Attributes exposing (..)
+import Html exposing (Html, div, input, text)
+import Html.Attributes exposing (placeholder)
 import Html.Events exposing (onInput)
 
 
